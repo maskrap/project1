@@ -17,7 +17,7 @@ This includes projects such as...
 Sam Park is doing his Week 1 to Intro class code review and a readme is part of his requirements
 
 ##Setup/installation instructions
-Clone the 'project1' repository via GitHub and open the index.html and double click the file using your favorite browser
+Clone the 'project1' repository via [GitHub pages](http://sampark18.github.io/project1/projects.html) and open the index.html and double click the file using your favorite browser
 
 ##Technologies Used
 * Markdown
