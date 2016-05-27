@@ -1,0 +1,54 @@
+/*  Layout  */
+
+body  {
+  padding-top: 70px;
+}
+
+.container  {
+  max-width: 1000px;
+}
+
+
+.img-responsive {
+  max-width: 300px;;
+
+}
+}
+/*  Jumbotron  */
+
+.jumbotron {
+  margin-top: 40px;
+  text-align: center;
+}
+
+
+
+/*  Glyphicon */
+
+.glyphicon  {
+  font-size: 3em;
+  display: block;
+  text-align: center;
+  color: red;
+}
+
+
+/* ABOUT ME HTML */
+
+.aboutmelist {
+  list-style: none;
+
+}
+
+#pic img {
+  display: block;
+  border: 10px solid pink;
+}
+
+#moveover {
+  padding-left: 10px;
+
+}
+
+
+/* PROJECTS HTML */
