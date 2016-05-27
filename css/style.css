@@ -43,6 +43,9 @@ body  {
 #pic img {
   display: block;
   border: 10px solid pink;
+  padding: 10px;
+  float: left;
+  margin-right: 50px;
 }
 
 #moveover {
