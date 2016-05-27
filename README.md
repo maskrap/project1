@@ -16,6 +16,27 @@ This includes projects such as...
 ##Purpose
 Sam Park is doing his Week 1 to Intro class code review and a readme is part of his requirements
 
+The objectives, as defined by [Learn How To Program](http://learnhowtoprogram.com)are as follows:
+
+"Objectives
+Below are the objectives the instructor will use to review your code with you next week:
+
+These HTML tags are incorporated:
+p, h, ul, ol, li, em, strong, a, img, div, span
+Bootstrap classes are used to style your page.
+A custom-made stylesheet that uses cascading, the box model, and floats is included.
+Indentation and spacing of HTML and CSS is accurate.
+Commits made regularly with clear messages that finish the phrase "It will…"
+A project README that includes:
+author name
+project or program name
+description of program
+program setup instructions
+link to site on GitHub Pages
+copyright and license information
+Site is successfully deployed to GitHub pages.
+"
+
 ##Setup/installation instructions
 Clone the 'project1' repository via [GitHub pages](http://sampark18.github.io/project1/projects.html) and open the index.html and double click the file using your favorite browser
 
