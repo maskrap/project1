@@ -7,11 +7,11 @@ This readme covers an "About me" section for creator Sam Park and the projects h
 
 This includes projects such as...
 
-* hello-world **GitHub**
-* beer-informational-funtime **GitHub**
-* cupcakeshop **GitHub**
-* resort **GitHub**
-* animal shelter **GitHub**
+* hello-world [**GitHub**](https://github.com/sampark18/hello-world)
+* beer-informational-funtime [**GitHub**](https://github.com/sampark18/beer-informational-funtime)
+* cupcakeshop [**GitHub**](https://github.com/sampark18/cupcakeshop)
+* resort [**GitHub**](https://github.com/sampark18/resort)
+* animal shelter [**GitHub**](https://github.com/sampark18/animalshelter)
 
 ##Purpose
 Sam Park is doing his Week 1 to Intro class code review and a readme is part of his requirements
