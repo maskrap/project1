@@ -5,15 +5,42 @@ body  {
 }
 
 .container  {
-  max-width: 1000px;
+  max-width: 5000px;
 }
 
 
 .img-responsive {
   max-width: 300px;;
+  max-height: 600px;
 
 }
+
+.button {
+  text-align: left;
+  padding-left: 100px;
 }
+
+.lead {
+  text-align: left;
+  padding-left: 100px;
+}
+
+.item-active  {
+  text-align: left;
+  padding-left: 100px;
+}
+
+.item {
+  text-align: left;
+  padding-left: 100px;
+}
+
+#myCarousel {
+  margin-top: 25px;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
 /*  Jumbotron  */
 
 .jumbotron {
